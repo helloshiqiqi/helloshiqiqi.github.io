@@ -23,9 +23,9 @@
     
     
     <entry>
-      <title>Test</title>
-      <link href="/2019/10/11/Test/"/>
-      <url>/2019/10/11/Test/</url>
+      <title>关于我</title>
+      <link href="/2019/10/11/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
+      <url>/2019/10/11/%E5%85%B3%E4%BA%8E%E6%88%91/</url>
       
         <content type="html"><![CDATA[<h1 id="一级标题"><a href="#一级标题" class="headerlink" title="一级标题"></a>一级标题</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><blockquote><p>引用</p></blockquote><ul><li>无序列表</li><li>无序列表</li><li>无序列表</li></ul><ol><li>有序列表</li><li>有序列表</li><li>有序列表</li></ol><p><img src="/images/fox.png" alt></p><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">print(<span class="string">'hello world'</span>)</span><br></pre></td></tr></table></figure>]]></content>
       
