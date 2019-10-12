@@ -61,7 +61,7 @@
     
     
     <entry>
-      <title>关于我</title>
+      <title>Abount me</title>
       <link href="/2019/10/10/%E5%85%B3%E4%BA%8E%E6%88%91/"/>
       <url>/2019/10/10/%E5%85%B3%E4%BA%8E%E6%88%91/</url>
       
@@ -80,17 +80,17 @@
     
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2019/10/10/hello-world/"/>
-      <url>/2019/10/10/hello-world/</url>
+      <title>Abount me</title>
+      <link href="/2019/10/10/AboutMe/"/>
+      <url>/2019/10/10/AboutMe/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h3 id="博主信息"><a href="#博主信息" class="headerlink" title="博主信息"></a>博主信息</h3><ul><li>名字：石起起</li><li>网名：东南有大树</li><li>籍贯：山西</li><li>现居地：北京</li><li>座右铭：纸上得来终觉浅，绝知此事要躬行</li><li>编程领域<ul><li>主攻[c#, python, .net框架, sklearn]</li><li>涉及领域[numpy, pandas, matplotlib, seaborn, pyecharts, winform, asp.net, sqlserver, mysql, mongodb, html/css, js/jq，tensor flow，scrapy, django]等</li></ul></li><li>Email: <a href="mailto:mrshiqiqi@126.com" target="_blank" rel="noopener">mrshiqiqi@126.com</a>; <a href="mailto:sqqlove123@163.com" target="_blank" rel="noopener">sqqlove123@163.com</a></li><li>Github：<a href="https://github.com/mrshiqiqi" target="_blank" rel="noopener">https://github.com/mrshiqiqi</a>; <a href="https://github.com/helloshiqiqi" target="_blank" rel="noopener">https://github.com/helloshiqiqi</a></li></ul>]]></content>
       
       
       
         <tags>
             
-            <tag> hexo </tag>
+            <tag> life </tag>
             
         </tags>
       
