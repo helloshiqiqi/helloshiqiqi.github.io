@@ -100,25 +100,6 @@
     
     
     <entry>
-      <title>Abount me</title>
-      <link href="/2019/10/10/AboutMe/"/>
-      <url>/2019/10/10/AboutMe/</url>
-      
-        <content type="html"><![CDATA[<h3 id="博主信息"><a href="#博主信息" class="headerlink" title="博主信息"></a>博主信息</h3><ul><li>名字：石起起</li><li>网名：东南有大树</li><li>籍贯：山西</li><li>现居地：北京</li><li>座右铭：纸上得来终觉浅，绝知此事要躬行</li><li>编程领域<ul><li>主攻[c#, python, .net框架, sklearn]</li><li>涉及领域[numpy, pandas, matplotlib, seaborn, pyecharts, winform, asp.net, sqlserver, mysql, mongodb, html/css, js/jq，tensor flow，scrapy, django]等</li></ul></li><li>Email: <a href="mailto:mrshiqiqi@126.com" target="_blank" rel="noopener">mrshiqiqi@126.com</a>; <a href="mailto:sqqlove123@163.com" target="_blank" rel="noopener">sqqlove123@163.com</a></li><li>Github：<a href="https://github.com/mrshiqiqi" target="_blank" rel="noopener">https://github.com/mrshiqiqi</a>; <a href="https://github.com/helloshiqiqi" target="_blank" rel="noopener">https://github.com/helloshiqiqi</a></li></ul>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> life </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>TA-LIB K线形态识别与验证</title>
       <link href="/2019/10/01/K%E7%BA%BF%E5%BD%A2%E6%80%81%E8%AF%86%E5%88%AB%E4%B8%8E%E9%AA%8C%E8%AF%81/"/>
       <url>/2019/10/01/K%E7%BA%BF%E5%BD%A2%E6%80%81%E8%AF%86%E5%88%AB%E4%B8%8E%E9%AA%8C%E8%AF%81/</url>
